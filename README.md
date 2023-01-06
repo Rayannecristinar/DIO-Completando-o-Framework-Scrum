@@ -1,1 +1,1 @@
-# DIO-Completando-o-Framework-Scrum
+# DIO - Completando o Framework Scrum
